@@ -17,8 +17,8 @@ Equip students with industry-relevant data science skills starting from Python b
 | Day       | Topic                                   | Key Focus                                                            |
 | --------- | --------------------------------------- | -------------------------------------------------------------------- |
 | **Day 1** | Python for Data Science                 | Python basics, data structures, NumPy, Pandas, Titanic dataset       |
-| **Day 2** | Data Cleaning & Visualization           | Handling missing data, grouping, plotting with Matplotlib & Seaborn  |
-| **Day 3** | Introduction to Machine Learning        | Supervised learning, scikit-learn, train/test split, model training  |
+| **Day 2** | Introduction to Machine Learning            | Supervised learning, scikit-learn, train/test Matplotlib & Seaborn  |
+| **Day 3** | Advanced Machine Learning Algorithms       | Reinforcement Learning and Neural Networks  |
 | **Day 4** | Model Evaluation & Project Pipeline     | Accuracy, confusion matrix, pipeline creation, GitHub project setup  |
 | **Day 5** | Real-World Project & Industry Readiness | End-to-end ML project, portfolio tips, showcasing live research work |
 
@@ -64,9 +64,8 @@ Equip students with industry-relevant data science skills starting from Python b
 
 **Jaskirat Singh**
 
-* Co-Founder – Futurestic
+* Founder – Futurestic
 * 50+ Projects Delivered | 25+ Clients | 4+ Countries
-* Internships at Adobe, ETS
 * Research Published in MDPI
 * LinkedIn: [techsmartjsk](https://www.linkedin.com/in/techsmartjsk/)
 
